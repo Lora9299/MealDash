@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487237927422",
+    "project_id": "meal-dash-3c533",
+    "storage_bucket": "meal-dash-3c533.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487237927422:android:c7bf5937bd272f4d5880af",
+        "android_client_info": {
+          "package_name": "com.example.mealdash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487237927422-10a5k12t8fc4efpq6s29e9colgikvgbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA8oy3lptY3Y3EgvhdjIM1zP-rRU4h17k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487237927422-10a5k12t8fc4efpq6s29e9colgikvgbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
